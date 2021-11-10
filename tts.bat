@@ -1,0 +1,1 @@
+.\TTS\open_jtalk.exe -m .\TTS\voice.htsvoice -x .\TTS\dic -ow .\TTS\output.wav .\TTS\voice.txt
